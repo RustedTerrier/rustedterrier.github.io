@@ -1,0 +1,89 @@
+body {
+  background-color: #333333;
+  font-family: "Ubuntu";
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1{
+  margin-top: 200px;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 10px;
+}
+
+h2{
+  margin-top: 400px;
+  text-align: center;
+  color: white;
+  letter-spacing: 1px;
+}
+
+ul {
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 0;
+  width: 99%;
+  overflow: hidden;
+  background-color: #1a1a1a;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 136px;
+  flex: 30%;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #b63c24;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #1a1a1a;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;  
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 111px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #b63c24;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+img { image-rendering: -moz-crisp-edges; } 
+
+footer {
+  font-family: "Ubuntu";
+  margin-top: 176px;
+  color: white;
+  letter-spacing: 1px;
+}
