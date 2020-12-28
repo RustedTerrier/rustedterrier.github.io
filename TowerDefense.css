@@ -15,7 +15,12 @@ canvas {
   margin-top: 65px;
   background-color:#000000;
   justify-self:center;
+}
 
+ul {
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 ul {
