@@ -19,12 +19,6 @@ canvas {
 }
 
 ul {
-  top: 10;
-  left: 0;
-  width: 99%;
-}
-
-ul {
   list-style-type: none;
   margin: 10;
   padding: 0;
