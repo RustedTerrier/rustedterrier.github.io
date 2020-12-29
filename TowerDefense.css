@@ -7,7 +7,6 @@ body {
   background-color:#111;
   color:#000000;
   text-align:center;
-  width:98%;
   background-color: #111;
   font-family: "Ubuntu";
   background-repeat: no-repeat;
@@ -30,7 +29,7 @@ ul {
   list-style-type: none;
   margin: 10;
   padding: 0;
-  width: 100%;
+  width: 99%;
   overflow: hidden;
   background-color: #0d0d0d;
 }
