@@ -24,6 +24,14 @@ h2{
   letter-spacing: 1px;
 }
 
+
+h3{
+  margin-top: 50px;
+  text-align: center;
+  color: white;
+  letter-spacing: 1px;
+}
+
 ul {
   top: 0;
   left: 0;
