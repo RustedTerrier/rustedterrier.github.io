@@ -23,14 +23,14 @@ canvas {
 ul {
   top: 0;
   left: 0;
-  width: 90%;
+  width: 100%;
 }
 
 ul {
   list-style-type: none;
   margin: 10;
   padding: 0;
-  width: 90%;
+  width: 100%;
   overflow: hidden;
   background-color: #0d0d0d;
 }
