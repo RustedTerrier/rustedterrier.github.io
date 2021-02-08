@@ -40,6 +40,7 @@ ul {
 }
 
 ul {
+  font-family: "Ubuntu";
   list-style-type: none;
   margin: 150;
   padding: 0;
@@ -53,6 +54,7 @@ li {
 }
 
 li a, .dropbtn {
+  font-family: "Ubuntu";
   display: inline-block;
   color: white;
   text-align: center;
@@ -70,6 +72,7 @@ li.dropdown {
 }
 
 .dropdown-content {
+  font-family: "Ubuntu";
   display: none;
   position: absolute;
   background-color: #0d0d0d;
